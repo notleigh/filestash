@@ -1,3 +1,5 @@
+[![Build Status](https://cloud.drone.io/api/badges/notleigh/filestash/status.svg)](https://cloud.drone.io/notleigh/filestash)
+
 ![screenshot](https://raw.githubusercontent.com/mickael-kerjean/filestash_images/master/.assets/photo.jpg)
 
 <p align="center">
